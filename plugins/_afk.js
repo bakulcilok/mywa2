@@ -1,5 +1,5 @@
-//- Made by Amirul Dev
-//- FB: fb.com/amiruldev.id - IG: @amirul.dev
+//- Made by BakulCilok
+//- FB: fb.com/obito.obito.568 - IG: @halim.rohmana
 
 let handler = m => m
 handler.before = m => {
