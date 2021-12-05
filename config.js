@@ -24,7 +24,7 @@ function _0x4227(){var _0x247a9c=['3QfQsqg','15410eTfEFR','1395035Qagfbe','24725
 
 //- SETTINGNYA DISINI
 
-global.pict = 'https://telegra.ph/file/7a500b34519811d5c55dc.jpg' // pict fake reply
+global.pict = 'https://telegra.ph/file/a3cd34691815ddb3d2b36.jpg' // pict fake reply
 global.name = 'BakulBot'
 // nama bot
 global.sw = ["6282144572368", "6289685346362", " 6281222008204"] // story saver
