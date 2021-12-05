@@ -22,36 +22,42 @@ function _0x4227(){var _0x247a9c=['3QfQsqg','15410eTfEFR','1395035Qagfbe','24725
 
 
 
-//- SETTINGNYA DISINI
+//- SETTINGNYA DISINI
+
 global.pict = 'https://telegra.ph/file/7a500b34519811d5c55dc.jpg' // pict fake reply
-global.name = 'MyWA'// nama bot
-global.sw = ["6285157489446", "62895604187905", " 6287676716773"] // story saver
-global.dev = `Amirul Dev`// developer
+global.name = 'BakulBot'
+// nama bot
+global.sw = ["6282144572368", "6289685346362", " 6281222008204"] // story saver
+global.dev = `Bakulcilok`
+// developer
 global.browser = 'Firefox' // browser wa
 global.version = '1.0.6' // versi bot
 global.capt = ['Halo, terimakasih telah menggunakan bot ini, jangan lupa dukung bot ini dengan cara donasi yah', 'Terimakasih telah menggunakan bot ini, dimohon mematuhi semua rules dan tidak spam ke bot, happy boters guys 😊', 'Hai 👋/nthanks uda menggunakan bot ini, apabila ada fitur yang eror atau bug, silahkan lapor ke owner langsung yah', 'Hai kak 👋\nHave a nice day. gunakan bot sewajarnya aja yah.. jangan spam dan jangan diperjual belikan, bot ini gratis tidak ada unsur sewa²an kecuali fitur fitur tertentu!!'] // caption kalau downloaderlu ga ada captionnya
 
 // WM STIKER
-global.packname = 'Created By Wabot Plus+️'
-global.author = 'me'
+global.packname = 'Bakulcilok'
+global.author = 'Bot'
 
 // RESPON
 global.wait = 'Permintaan sedang diproses...'
 global.eror = 'Server Error'
-
+
+
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
 
-global.owner = ["6285157489446"]
+global.owner = ["6282144572368", "6289685346362"]
 global.mods = [] // Moderator
 
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium
 
-global.APIs = { // API Prefix
+global.APIs = { // API Prefix
+
 am: 'https://amdev.herokuapp.com/api/',
 }
-global.APIKeys = { // APIKey nya disini
+global.APIKeys = { // APIKey nya disini
+
 'https://amdev.herokuapp.com/api/': 'renz',
 }
 
